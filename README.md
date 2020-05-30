@@ -17,7 +17,7 @@ All website files go to the `www` folder.
 This will run a dev environment:
 
 - localhost:8001: Apache/Website
-- localhost:8001: PhpMyAdmin
+- localhost:8002: PhpMyAdmin
 - locahost:8003: MySQL
 
 ## Stop
